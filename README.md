@@ -1,2 +1,3 @@
-# Note-app-on-flutter
-Тестове завдання для курсів spacelab
+Лагуш Любомир Михайлович
+orest27orest@gmail.com
+6 годин 
